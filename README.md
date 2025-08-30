@@ -15,6 +15,8 @@
 <img width="620" height="325" alt="image" src="https://github.com/user-attachments/assets/7220b6e6-869f-4f9c-9374-52d630430375" />
 <img width="601" height="453" alt="image" src="https://github.com/user-attachments/assets/71c939af-4140-47b3-8109-9027365b777a" />
 <img width="617" height="329" alt="image" src="https://github.com/user-attachments/assets/631f3472-3e73-4d5b-8d22-d7b0239c5b78" />
+
+# im missing a bit mb
 <img width="958" height="516" alt="image" src="https://github.com/user-attachments/assets/7da14982-4866-4c13-8e45-b1d90923c26a" />
 <img width="938" height="520" alt="image" src="https://github.com/user-attachments/assets/dfefdd62-2606-4790-9a29-cd9d62fb20e9" />
 
